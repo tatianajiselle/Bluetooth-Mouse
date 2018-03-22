@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+A3000	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init			KEYWORD2
+getClockFreq	KEYWORD2
+setClockFreq	KEYWORD2
+getDataOrder	KEYWORD2
+setDataOrder	KEYWORD2
+getDataMode		KEYWORD2
+setDataMode		KEYWORD2
+writeReg		KEYWORD2
+readReg			KEYWORD2
+readDeltaXY		KEYWORD2
+readDeltaXYHigh	KEYWORD2
+reset			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PROD_ID				LITERAL1
+REV_ID				LITERAL1
+MOTION_ST			LITERAL1
+DELTA_X				LITERAL1
+DELTA_Y				LITERAL1
+SQUAL				LITERAL1
+SHUT_HI				LITERAL1
+SHUT_LO				LITERAL1
+PIX_MAX				LITERAL1
+PIX_ACCUM			LITERAL1
+PIX_MIN				LITERAL1
+PIX_GRAB			LITERAL1
+DELTA_XY_HIGH		LITERAL1
+MOUSE_CTRL			LITERAL1
+RUN_DOWNSHIFT		LITERAL1
+REST1_PERIOD		LITERAL1
+REST1_DOWNSHIFT		LITERAL1
+REST2_PERIOD		LITERAL1
+REST2_DOWNSHIFT		LITERAL1
+REST3_PERIOD		LITERAL1
+PERFORMANCE			LITERAL1
+RESET				LITERAL1
+NOT_REV_ID			LITERAL1
+LED_CTRL			LITERAL1
+MOTION_CTRL			LITERAL1
+BURST_READ_FIRST	LITERAL1
+REST_MODE_CONFIG	LITERAL1
+WRITE_BIT			LITERAL1
+MOTION_BIT			LITERAL1
+RESET_VALUE			LITERAL1
